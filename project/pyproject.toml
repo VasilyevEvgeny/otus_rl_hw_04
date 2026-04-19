@@ -1,0 +1,14 @@
+[project]
+name = "otus-rl-hw-04"
+version = "0.1.0"
+description = "OTUS Reinforcement Learning — Homework 04 (Dyna-Q vs Q-learning, stochastic FrozenLake 8x8)"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "tqdm",
+    "pillow",
+]
+
+[tool.uv]
+python-preference = "managed"

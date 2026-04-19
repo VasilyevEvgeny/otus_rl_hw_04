@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.cursor/
+.cursor-server/
+.cache/
+.ssh/
+*.pth
+*.zip
+.bash_history
+.gitconfig
+*.npy
+*.npz
+*.txt
